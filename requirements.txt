@@ -17,8 +17,8 @@ azure-mgmt-network==25.1.0
 azure-mgmt-resource==23.0.1
 azure-mgmt-storage==21.1.0
 azure-storage-blob==12.19.0
-azure-storage-queue==1.55.0
-azureml-automl-core==1.54.0
+azure-storage-queue==12.9.0
+azureml-automl-core==1.55.0
 azureml-automl-runtime==1.54.0
 azureml-core==1.54.0.post1
 azureml-dataprep==4.12.8
